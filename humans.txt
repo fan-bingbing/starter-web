@@ -3,7 +3,7 @@
 
 # TEAM
 
-    jason taylor jason@git.training 
+    jason taylor jason@git.training
 
 # THANKS
 
@@ -13,3 +13,6 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+# THANKS
+    All my students
