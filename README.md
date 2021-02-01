@@ -12,4 +12,4 @@ Sample website with plenty of files for demos
 2014 Git.Training
 
 ## How to contribue
-please fork this repo and then issue pull request for review
+fork this repo and then issue pull request for review
