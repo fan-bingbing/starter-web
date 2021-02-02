@@ -15,4 +15,4 @@
     jQuery, Modernizr
 
 # THANKS
-    All my students
+    All my students!
